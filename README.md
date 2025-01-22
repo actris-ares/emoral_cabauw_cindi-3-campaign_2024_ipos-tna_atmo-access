@@ -6,7 +6,7 @@ https://doi.org/10.57837/cnr-imaa/actris-ares/emoral_cabauw_cindi-3-campaign_202
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/actris-ares/emoral_cabauw_cindi-3-campaign_2024_ipos-tna_atmo-access  
 
 Citation:  
-Stachlewska, I. S., Poczta, P., Hafiz, A., Ribes-Pleguezuelo, P., Mona, L., D'Amico, G., Mattis, I., Dema, C., Gumà-Claramunt, P., & Ripepi, E. (2025). Dataset of aerosol optical profiles obtained with EMORAL lidar during CINDI-3 2024 Intercomparison Campaign within IPOS TNA of ATMO-ACCESS. (Version 1) [Data set]. ACTRIS-ARES Data Centre. 
+Stachlewska, I. S., Poczta, P., Hafiz, A., Ribes-Pleguezuelo, P., Mona, L., D'Amico, G., Mattis, I., Dema, C., Gumà-Claramunt, P., & Ripepi, E. (2025). Dataset of aerosol optical profiles obtained with EMORAL lidar during CINDI-3 2024 Intercomparison Campaign within IPOS TNA of ATMO-ACCESS. (Version 1) [Data set]. ACTRIS-ARES Data Centre.  
 https://doi.org/10.57837/CNR-IMAA/ACTRIS-ARES/EMORAL_CABAUW_CINDI-3-CAMPAIGN_2024_IPOS-TNA_ATMO-ACCESS.  
 
 Download: https://github.com/actris-ares/emoral_cabauw_cindi-3-campaign_2024_ipos-tna_atmo-access/blob/main/dataset.zip
